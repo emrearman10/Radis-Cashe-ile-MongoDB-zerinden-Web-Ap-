@@ -1,0 +1,14 @@
+{
+  "name": "emre",
+  "version": "1.0.0",
+  "description": "API-REDİS",
+  "main": "proje3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MONGO-API"
+  ],
+  "author": "EMRE",
+  "license": "ISC"
+}
